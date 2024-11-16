@@ -1,2 +1,2 @@
 # ConectoresArticulos.github.io
-Conectores y artículos en ingles.
+Conectores y artículos en ingles
